@@ -1,0 +1,16 @@
+{
+  "id": "3177964",
+  "name": "test",
+  "font_family": "iconfont-kuang",
+  "css_prefix_text": "icon-kuang",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "27573212",
+      "name": "huodongxiangqu",
+      "font_class": "huodongxiangqu",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}
